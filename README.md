@@ -5,10 +5,8 @@ This repo contains a multi-level Time Series Analysis of Google Trends data for 
   1. Pulling Google Trends Data for AK-47.ipynb
   2. Decomposing Time Series into Components.ipynb
   3. Facebook Prophet Predicting Time Series Analysis.ipynb
-  4.
-  5.
+  4. Using Facebook Prophet with Holidays.ipynb
   
-
 ### Working/Goals:
   * Incorporate "news" data to create a Time Series Analysis of Media trends for the AK-47 (2013-2018).
   * Explore the relationship (if any) between Google interest and Media interest in the AK-47. What is the overall trend?
