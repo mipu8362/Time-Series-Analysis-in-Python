@@ -4,7 +4,7 @@ This repo contains a multi-level Time Series Analysis of Google Trends data for 
 ### Run Files in this order:
   1. Pulling Google Trends Data for AK-47.ipynb
   2. Decomposing Time Series into Components.ipynb
-  3. Prophet Time Series Analysis.ipynb
+  3. Facebook Prophet Predicting Time Series Analysis.ipynb
   4.
   5.
   
