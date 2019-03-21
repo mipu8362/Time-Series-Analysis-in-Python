@@ -13,4 +13,4 @@ This repo contains a multi-level Time Series Analysis of Google Trends data for 
   
   
 ### Update:
-Incorporating the GDELT "News" Data and full analysis is contained in.
+Incorporating the GDELT "News" Data and full analysis is contained in 'Time Series Analysis and Comparison of AK-47 and _News_ (GDELT) Data (1).ipynb'.
