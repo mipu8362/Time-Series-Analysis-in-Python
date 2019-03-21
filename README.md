@@ -10,3 +10,7 @@ This repo contains a multi-level Time Series Analysis of Google Trends data for 
 ### Working/Goals:
   * Incorporate "news" data to create a Time Series Analysis of Media trends for the AK-47 (2013-2018).
   * Explore the relationship (if any) between Google interest and Media interest in the AK-47. What is the overall trend?
+  
+  
+### Update:
+Incorporating the GDELT "News" Data and full analysis is contained in.
